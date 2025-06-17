@@ -46,7 +46,7 @@ body {
             height: 60%;
             object-fit: cover;
             
-        }
+        } 
       }
         .box:hover {
             background-color: gray;
