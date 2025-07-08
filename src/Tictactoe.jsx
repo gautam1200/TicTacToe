@@ -103,7 +103,7 @@ const TictacToc = () => {
     boxes.forEach((box) => {
       box.innerHTML = "";
     });
-  };
+  }; 
 
 
   return (
