@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import player1 from "./circle.png";
 import player2 from "./cross.png";
-import bg from "./bg.avif";
+import bg from "../src/bg2.avif";
 import { Box, Typography } from "@mui/material";
 
 
